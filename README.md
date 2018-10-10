@@ -13,7 +13,7 @@ If the host system is RHEL, you have option of attaching a Red Hat subscription 
 RHEL7 repositories include:
 
 * `rhel-7-server-rpms`
-* `rhel-7-server-optional-rpms`
+* `rhel-7-server-optional-rpms`gdsgdsgds
 * `rhel-7-server-supplementary-rpms`
 * `rhel-7-server-extras-rpms`
 
