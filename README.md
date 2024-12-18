@@ -1,3 +1,8 @@
+# ARCHIVED
+
+This repository has been marked archived. Please see the
+uclalib_role_rhel8repos fork.
+
 uclalib_role_rhel7repos
 =========
 
